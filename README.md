@@ -23,7 +23,7 @@ Ingeniero en proceso con pasión por el bajo nivel. Me gusta entender cómo func
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-1ptwnxg1l-alexandrucolacels-projects.vercel.app/api?username=AlexandruColacel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Alexandru's Github Stats" />
+  <img src="https://github-readme-stats-git-master-alexandrucolacels-projects.vercel.app/api?username=AlexandruColacel&theme=dark&hide_border=true&count_private=true" />
 </p>
 
 <p align="left">
