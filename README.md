@@ -23,13 +23,12 @@ Ingeniero en proceso con pasión por el bajo nivel. Me gusta entender cómo func
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-git-master-alexandrucolacels-projects.vercel.app/api?username=AlexandruColacel&show_icons=true&theme=dark&hide_border=true&count_private=true&v=2026" alt="Alexandru's Github Stats" />
+  <img src="https://github-readme-stats-vert-beta-70.vercel.app/api?username=AlexandruColacel&show_icons=true&theme=dark&hide_border=true&count_private=true&v=3" alt="Alexandru's Github Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-alexandrucolacels-projects.vercel.app/api/top-langs/?username=AlexandruColacel&layout=compact&theme=dark&hide_border=true&v=2026" alt="Top Langs" />
+  <img src="https://github-readme-stats-vert-beta-70.vercel.app/api/top-langs/?username=AlexandruColacel&layout=compact&theme=dark&hide_border=true&v=3" alt="Top Langs" />
 </p>
-
 ---
 
 ### 🔗 Conecta conmigo
